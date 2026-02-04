@@ -2,7 +2,9 @@
 10 pm PKT ,ML course on IcodeGuru 
 
 ML all lectures 
+Lectures recordings: https://www.youtube.com/playlist?list=PLfPJmXVGpJLZ2fUmddPigdEYjV2BGJ8x6
 
+slides and code files drive : 
 https://drive.google.com/drive/folders/1AKzyv4DOrteJPIcNnOkethoKncvjdxdv?usp=sharing 
 
 -----------------------------------------------------------------------------------
