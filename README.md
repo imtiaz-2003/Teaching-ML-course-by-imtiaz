@@ -7,6 +7,8 @@ Lectures recordings: https://www.youtube.com/playlist?list=PLfPJmXVGpJLZ2fUmddPi
 slides and code files drive : 
 https://drive.google.com/drive/folders/1AKzyv4DOrteJPIcNnOkethoKncvjdxdv?usp=sharing 
 
+<img width="1310" height="638" alt="image" src="https://github.com/user-attachments/assets/d32c95a5-0c15-4e7f-9f3b-4cbf56e2ae6f" />
+
 -----------------------------------------------------------------------------------
 # Machine Learning Course Outline
 
