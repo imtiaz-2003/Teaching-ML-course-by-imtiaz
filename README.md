@@ -1,5 +1,5 @@
 # Teaching-ML-course-by-imtiaz
-10 pm PKT  ,ML course on IcodeGuru
+10 pm PKT  ,ML course on IcodeGuru 
 
 My all lectures of Machine Learning course 
 Lectures recordings: https://www.youtube.com/playlist?list=PLfPJmXVGpJLZ2fUmddPigdEYjV2BGJ8x6
